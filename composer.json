@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/adminicons",
+    "name": "codica-studio/adminicons",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/adminicons",
+    "homepage": "https://github.com/codica-studio/adminicons",
     "license": "MIT",
     "authors": [
         {
